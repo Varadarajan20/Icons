@@ -1,0 +1,34 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_230_406)">
+<path d="M31 29H1V31H31V29Z" stroke="black" stroke-linejoin="round"/>
+<path d="M2 29V5H16V29" stroke="black" stroke-linejoin="round"/>
+<path d="M30 29H16V16L30 21V29Z" stroke="black" stroke-linejoin="round"/>
+<path d="M27 19.93V12H24V18.855" stroke="black" stroke-linejoin="round"/>
+<path d="M28.5 1C27.837 1 27.2011 1.26339 26.7322 1.73223C26.2634 2.20107 26 2.83696 26 3.5C26.001 3.68519 26.0228 3.86968 26.065 4.05C25.6214 4.14885 25.2247 4.39584 24.9402 4.75029C24.6558 5.10474 24.5005 5.54551 24.5 6C24.5014 6.41006 24.6288 6.80978 24.865 7.145C24.5997 7.2684 24.3762 7.46671 24.2222 7.71551C24.0682 7.96431 23.9903 8.25273 23.9981 8.54525C24.0059 8.83777 24.0992 9.12161 24.2663 9.36181C24.4334 9.60201 24.6671 9.78808 24.9387 9.89711C25.2103 10.0061 25.5078 10.0333 25.7946 9.9754C26.0814 9.91745 26.345 9.77687 26.553 9.57098C26.7609 9.36509 26.9041 9.10287 26.9649 8.81663C27.0256 8.53039 27.0013 8.23262 26.895 7.96C27.3477 7.8688 27.7548 7.62378 28.0474 7.26651C28.3399 6.90925 28.4999 6.46176 28.5 6C29.163 6 29.7989 5.73661 30.2678 5.26777C30.7366 4.79893 31 4.16304 31 3.5C31 2.83696 30.7366 2.20107 30.2678 1.73223C29.7989 1.26339 29.163 1 28.5 1Z" stroke="black" stroke-linejoin="round"/>
+<path d="M24 14H27" stroke="black" stroke-linejoin="round"/>
+<path d="M3 5V1H15V5" stroke="black" stroke-linejoin="round"/>
+<path d="M18 29V24H22V29" stroke="black" stroke-linejoin="round"/>
+<path d="M24 29V24H28V29" stroke="black" stroke-linejoin="round"/>
+<path d="M14 7H4V9H14V7Z" stroke="black" stroke-linejoin="round"/>
+<path d="M14 11H4V13H14V11Z" stroke="black" stroke-linejoin="round"/>
+<path d="M14 15H4V17H14V15Z" stroke="black" stroke-linejoin="round"/>
+<path d="M14 19H4V21H14V19Z" stroke="black" stroke-linejoin="round"/>
+<path d="M2 23H16" stroke="black" stroke-linejoin="round"/>
+<path d="M4 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M6 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M8 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M10 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M12 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M14 29V23" stroke="black" stroke-linejoin="round"/>
+<path d="M4.5 3H5.5" stroke="black" stroke-linejoin="round"/>
+<path d="M6.5 3H7.5" stroke="black" stroke-linejoin="round"/>
+<path d="M8.5 3H9.5" stroke="black" stroke-linejoin="round"/>
+<path d="M10.5 3H11.5" stroke="black" stroke-linejoin="round"/>
+<path d="M12.5 3H13.5" stroke="black" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_230_406">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
